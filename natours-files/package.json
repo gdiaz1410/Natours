@@ -4,11 +4,11 @@
   "description": "landing page",
   "main": "index.js",
   "scripts": {
-    "compile:sass":"node-sass sass/main.scss css/style.css -w"
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.6.1"
+    "node-sass": "^4.5.3"
   }
 }
